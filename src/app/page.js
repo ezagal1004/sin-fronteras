@@ -310,7 +310,7 @@ const RightsAudioApp = () => {
                         {right.spanish}
                       </p>
                       <p className="text-sm text-gray-500 italic">
-                        Se dirá en inglés: "{right.text}"
+                        Se dirá en inglés: &ldquo;{right.text}&rdquo;
                       </p>
                     </div>
                   </div>
